@@ -1,2 +1,2 @@
 # E_school
-Here is the code of e_school project.
+https://shaylasharmin123.github.io/E_school/
